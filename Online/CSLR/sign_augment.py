@@ -8,11 +8,11 @@ from copy import deepcopy
 
 if __name__ == '__main__':
     split = 'train'
-    with open('../../data/phoenix_2014t/phoenix_iso.{}'.format(split), 'rb') as f:
+    with open('../../datasets/csl-daily/csl_iso.{}'.format(split), 'rb') as f:
         data = pickle.load(f)
-    with open('../../data/phoenix_2014t/phoenix_iso_blank.{}'.format(split), 'rb') as f:
-        data1 = pickle.load(f)
-    data = [*data, *data1]
+    # with open('../../data/phoenix_2014t/phoenix_iso_blank.{}'.format(split), 'rb') as f:
+    #     data1 = pickle.load(f)
+    # data = [*data, *data1]
     with gzip.open('../../data/phoenix_2014t/phoenix.{}'.format(split), 'rb') as f:
         ori = pickle.load(f)
     

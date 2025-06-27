@@ -1,0 +1,235 @@
+2025-06-19 18:39:25,098 Keypoints source: hrnet
+2025-06-19 18:39:26,832 Total #=63
+2025-06-19 18:39:26,923 Load pretrained S3D backbone from ../../pretrained_models/s3ds_actioncls_ckpt
+2025-06-19 18:46:31,981 Keypoints source: hrnet
+2025-06-19 18:46:33,829 Total #=63
+2025-06-19 18:46:33,937 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-19 18:46:34,098 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-19 18:46:34,846 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-19 18:46:35,412 Evaluate on dev set
+2025-06-19 18:46:37,960 Keypoints source: hrnet
+2025-06-19 18:46:39,247 Total #=63
+2025-06-19 18:46:39,256 {'recognition': {'beam_size': 10}}
+2025-06-19 18:46:39,256 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 18:36:32,653 Keypoints source: hrnet
+2025-06-22 18:36:34,802 Total #=63
+2025-06-22 18:36:34,924 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:36:35,142 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:36:36,085 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 18:36:37,172 Evaluate on dev set
+2025-06-22 18:36:42,668 Keypoints source: hrnet
+2025-06-22 18:36:44,419 Total #=63
+2025-06-22 18:36:44,437 {'recognition': {'beam_size': 10}}
+2025-06-22 18:36:44,438 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 18:43:20,122 Keypoints source: hrnet
+2025-06-22 18:43:22,005 Total #=63
+2025-06-22 18:43:22,115 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:43:22,311 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:43:23,049 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 18:43:23,571 Evaluate on dev set
+2025-06-22 18:43:25,877 Keypoints source: hrnet
+2025-06-22 18:43:27,095 Total #=63
+2025-06-22 18:43:27,104 {'recognition': {'beam_size': 10}}
+2025-06-22 18:43:27,104 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 18:45:54,708 Keypoints source: hrnet
+2025-06-22 18:45:56,917 Total #=63
+2025-06-22 18:45:57,024 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:45:57,212 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:45:58,005 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 18:45:58,590 Evaluate on dev set
+2025-06-22 18:45:59,159 Keypoints source: hrnet
+2025-06-22 18:46:00,447 Total #=63
+2025-06-22 18:46:00,456 {'recognition': {'beam_size': 10}}
+2025-06-22 18:46:00,456 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 18:50:58,872 Keypoints source: hrnet
+2025-06-22 18:51:00,917 Total #=63
+2025-06-22 18:51:01,010 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:51:01,138 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 18:51:01,756 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 18:51:02,281 Evaluate on dev set
+2025-06-22 18:51:02,764 Keypoints source: hrnet
+2025-06-22 18:51:03,974 Total #=63
+2025-06-22 18:51:03,980 {'recognition': {'beam_size': 10}}
+2025-06-22 18:51:03,980 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 21:22:06,194 Keypoints source: hrnet
+2025-06-22 21:22:08,099 Total #=63
+2025-06-22 21:22:08,186 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:22:08,342 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:22:09,046 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 21:22:09,499 Evaluate on dev set
+2025-06-22 21:22:11,999 Keypoints source: hrnet
+2025-06-22 21:22:13,217 Total #=63
+2025-06-22 21:22:13,223 {'recognition': {'beam_size': 10}}
+2025-06-22 21:22:13,223 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 21:23:07,420 Keypoints source: hrnet
+2025-06-22 21:23:09,367 Total #=63
+2025-06-22 21:23:09,461 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:23:09,743 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:23:10,386 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 21:23:10,976 Evaluate on dev set
+2025-06-22 21:23:13,362 Keypoints source: hrnet
+2025-06-22 21:23:14,789 Total #=63
+2025-06-22 21:23:14,795 {'recognition': {'beam_size': 10}}
+2025-06-22 21:23:14,796 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 21:25:59,311 Keypoints source: hrnet
+2025-06-22 21:26:01,122 Total #=63
+2025-06-22 21:26:01,217 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:26:01,378 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:26:02,015 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 21:26:02,585 Evaluate on dev set
+2025-06-22 21:26:03,092 Keypoints source: hrnet
+2025-06-22 21:26:04,283 Total #=63
+2025-06-22 21:26:04,289 {'recognition': {'beam_size': 10}}
+2025-06-22 21:26:04,289 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 21:40:04,482 Keypoints source: hrnet
+2025-06-22 21:40:06,405 Total #=63
+2025-06-22 21:40:06,499 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:40:06,644 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 21:40:07,293 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 21:40:07,845 Evaluate on dev set
+2025-06-22 21:40:08,450 Keypoints source: hrnet
+2025-06-22 21:40:09,599 Total #=63
+2025-06-22 21:40:09,607 {'recognition': {'beam_size': 10}}
+2025-06-22 21:40:09,608 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:19:48,303 Keypoints source: hrnet
+2025-06-22 22:19:50,216 Total #=63
+2025-06-22 22:19:50,318 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:19:50,472 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:19:51,165 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:19:51,742 Evaluate on dev set
+2025-06-22 22:19:52,298 Keypoints source: hrnet
+2025-06-22 22:19:53,473 Total #=63
+2025-06-22 22:19:53,479 {'recognition': {'beam_size': 10}}
+2025-06-22 22:19:53,479 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:26:40,915 Keypoints source: hrnet
+2025-06-22 22:26:42,922 Total #=63
+2025-06-22 22:26:43,059 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:26:43,219 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:26:43,876 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:26:44,567 Evaluate on dev set
+2025-06-22 22:26:45,255 Keypoints source: hrnet
+2025-06-22 22:26:46,472 Total #=63
+2025-06-22 22:26:46,479 {'recognition': {'beam_size': 10}}
+2025-06-22 22:26:46,479 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:29:49,495 Keypoints source: hrnet
+2025-06-22 22:29:51,426 Total #=63
+2025-06-22 22:29:51,534 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:29:51,756 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:29:52,413 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:29:53,159 Evaluate on dev set
+2025-06-22 22:29:54,040 Keypoints source: hrnet
+2025-06-22 22:29:55,309 Total #=63
+2025-06-22 22:29:55,314 {'recognition': {'beam_size': 10}}
+2025-06-22 22:29:55,314 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:31:41,171 Keypoints source: hrnet
+2025-06-22 22:31:43,071 Total #=63
+2025-06-22 22:31:43,164 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:31:43,325 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:31:43,935 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:31:44,737 Evaluate on dev set
+2025-06-22 22:31:45,324 Keypoints source: hrnet
+2025-06-22 22:31:46,576 Total #=63
+2025-06-22 22:31:46,583 {'recognition': {'beam_size': 10}}
+2025-06-22 22:31:46,584 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:32:56,332 Keypoints source: hrnet
+2025-06-22 22:32:58,162 Total #=63
+2025-06-22 22:32:58,249 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:32:58,378 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:32:58,996 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:32:59,548 Evaluate on dev set
+2025-06-22 22:33:00,000 Keypoints source: hrnet
+2025-06-22 22:33:01,166 Total #=63
+2025-06-22 22:33:01,172 {'recognition': {'beam_size': 10}}
+2025-06-22 22:33:01,172 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:34:20,229 Keypoints source: hrnet
+2025-06-22 22:34:22,044 Total #=63
+2025-06-22 22:34:22,132 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:34:22,273 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:34:22,871 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:34:23,371 Evaluate on dev set
+2025-06-22 22:34:23,739 Keypoints source: hrnet
+2025-06-22 22:34:24,910 Total #=63
+2025-06-22 22:34:24,915 {'recognition': {'beam_size': 10}}
+2025-06-22 22:34:24,916 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:35:43,640 Keypoints source: hrnet
+2025-06-22 22:35:45,437 Total #=63
+2025-06-22 22:35:45,531 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:35:45,691 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:35:46,405 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:35:46,919 Evaluate on dev set
+2025-06-22 22:35:47,362 Keypoints source: hrnet
+2025-06-22 22:35:48,693 Total #=63
+2025-06-22 22:35:48,701 {'recognition': {'beam_size': 10}}
+2025-06-22 22:35:48,702 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-22 22:54:01,731 Keypoints source: hrnet
+2025-06-22 22:54:03,619 Total #=63
+2025-06-22 22:54:03,713 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:54:03,870 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-22 22:54:04,552 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-22 22:54:05,125 Evaluate on dev set
+2025-06-22 22:54:05,779 Keypoints source: hrnet
+2025-06-22 22:54:06,941 Total #=63
+2025-06-22 22:54:06,947 {'recognition': {'beam_size': 10}}
+2025-06-22 22:54:06,947 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-23 12:29:23,606 Keypoints source: hrnet
+2025-06-23 12:29:27,888 Total #=63
+2025-06-23 12:29:27,993 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 12:29:28,140 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 12:29:28,960 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-23 12:29:29,552 Evaluate on dev set
+2025-06-23 12:29:31,680 Keypoints source: hrnet
+2025-06-23 12:29:33,017 Total #=63
+2025-06-23 12:29:33,023 {'recognition': {'beam_size': 10}}
+2025-06-23 12:29:33,023 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-23 12:36:40,765 Keypoints source: hrnet
+2025-06-23 12:36:42,549 Total #=63
+2025-06-23 12:36:42,639 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 12:36:42,804 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 12:36:43,376 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-23 12:36:43,879 Evaluate on dev set
+2025-06-23 12:36:44,271 Keypoints source: hrnet
+2025-06-23 12:36:45,534 Total #=63
+2025-06-23 12:36:45,539 {'recognition': {'beam_size': 10}}
+2025-06-23 12:36:45,540 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-23 13:16:06,760 Keypoints source: hrnet
+2025-06-23 13:18:25,708 Keypoints source: hrnet
+2025-06-23 13:24:14,953 Keypoints source: hrnet
+2025-06-23 13:24:18,610 Total #=63
+2025-06-23 13:24:18,700 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:24:18,859 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:24:19,504 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-23 13:24:20,055 Evaluate on dev set
+2025-06-23 13:24:53,795 Keypoints source: hrnet
+2025-06-23 13:24:55,887 Total #=63
+2025-06-23 13:24:55,898 {'recognition': {'beam_size': 10}}
+2025-06-23 13:24:55,898 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-23 13:26:54,991 Keypoints source: hrnet
+2025-06-23 13:26:58,132 Total #=63
+2025-06-23 13:26:58,231 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:26:58,387 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:26:59,012 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-23 13:26:59,593 Evaluate on dev set
+2025-06-23 13:27:30,823 Keypoints source: hrnet
+2025-06-23 13:27:33,003 Total #=63
+2025-06-23 13:27:33,014 {'recognition': {'beam_size': 10}}
+2025-06-23 13:27:33,015 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-23 13:41:51,026 Keypoints source: hrnet
+2025-06-23 13:41:53,974 Total #=63
+2025-06-23 13:41:54,065 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:41:54,209 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:41:54,925 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-23 13:41:55,494 Evaluate on dev set
+2025-06-23 13:42:06,703 Keypoints source: hrnet
+2025-06-23 13:42:08,774 Total #=63
+2025-06-23 13:42:08,784 {'recognition': {'beam_size': 10}}
+2025-06-23 13:42:08,784 ------------------Evaluation epoch=0 dev examples #=1077---------------------
+2025-06-23 13:49:06,708 Keypoints source: hrnet
+2025-06-23 13:49:09,862 Total #=63
+2025-06-23 13:49:09,956 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:49:10,105 Load pretrained S3D backbone from ../../../datasets/csl-daily/s3ds_actioncls_ckpt
+2025-06-23 13:49:10,704 results/csl-daily_ISLR/ckpts/best.ckpt does not exist
+2025-06-23 13:49:11,256 Evaluate on dev set
+2025-06-23 13:49:22,753 Keypoints source: hrnet
+2025-06-23 13:49:24,762 Total #=63
+2025-06-23 13:49:24,771 {'recognition': {'beam_size': 10}}
+2025-06-23 13:49:24,771 ------------------Evaluation epoch=0 dev examples #=1077---------------------

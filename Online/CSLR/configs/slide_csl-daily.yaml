@@ -4,16 +4,18 @@ data:
   input_streams:
     - keypoint
     - rgb
-  keypoint_file: ../../data/csl-daily/keypoints_hrnet_dark_coco_wholebody_iso.pkl
+  # keypoint_file: ../../../datasets/csl-daily/keypoints_hrnet_dark_coco_wholebody_iso.pkl
+  keypoint_file: /mnt/d/datasets/keypoints_hrnet_dark_coco_wholebody.pkl
+  
   use_keypoints:
     - pose
     - mouth_half
     - hand
-  zip_file: ../../data/csl-daily/sentence_frames-512x512.zip
-  train: ../../data/csl-daily/csl.train
-  dev: ../../data/csl-daily/csl.dev
-  test: ../../data/csl-daily/csl.test
-  vocab_file: ../../data/csl-daily/csl_iso_with_blank.vocab
+  zip_file: /mnt/d/datasets/sentence_frames-512x512.zip
+  train: ../../TwoStreamNetwork/data/csl-daily/csl-daily.train
+  dev: ../../TwoStreamNetwork/data/csl-daily/csl-daily.dev
+  test: ../../TwoStreamNetwork/data/csl-daily/csl-daily.test
+  vocab_file: ../../../datasets/csl-daily/csl_iso.vocab
   dataset_name: csl
   level: word #word or char
   txt_lowercase: true
@@ -72,14 +74,14 @@ training:
 model:
   RecognitionNetwork:
     GlossTokenizer:
-      gloss2id_file: ../../pretrained_models/mBart_de_2/gloss2ids.pkl
+      gloss2id_file: ../../../models/mBart_zh_t2g/gloss2ids.pkl
     s3d:
-      pretrained_ckpt: ../../pretrained_models/s3ds_actioncls_ckpt #from K400
+      pretrained_ckpt: ../../../datasets/csl-daily/s3ds_actioncls_ckpt #from K400
       use_block: 5
       freeze_block: 0
     keypoint_s3d:
       in_channel: 0 # placeholder
-      pretrained_ckpt: ../../pretrained_models/s3ds_actioncls_ckpt #from K400
+      pretrained_ckpt: ../../../datasets/csl-daily/s3ds_actioncls_ckpt #from K400
       use_block: 5
       freeze_block: 0
     heatmap_cfg:

@@ -4,12 +4,13 @@ data:
   input_streams:
     - keypoint
     - rgb
-  keypoint_file: ../../data/csl-daily/keypoints_hrnet_dark_coco_wholebody_iso.pkl
+  # keypoint_file: ../../data/csl-daily/keypoints_hrnet_dark_coco_wholebody_iso.pkl
+  keypoint_file: ../../../datasets/csl-daily/keypoints_hrnet_dark_coco_wholebody.pkl
   use_keypoints:
     - pose
     - mouth_half
     - hand
-  zip_file: /tmp/csl-daily/sentence_frames-512x512.zip
+  zip_file: /mnt/d/datasets/sentence_frames-512x512.zip
   train: ../../data/csl-daily/csl_iso_center_label_bag2items_halfblk.train
   dev: ../../data/csl-daily/csl_iso_with_blank.dev
   test: ../../data/csl-daily/csl_iso_with_blank.test

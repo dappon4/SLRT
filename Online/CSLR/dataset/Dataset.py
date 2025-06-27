@@ -66,7 +66,7 @@ class ISLRDataset(torch.utils.data.Dataset):
                 name2keypoints[name] = []
                 for k in sorted(self.dataset_cfg['use_keypoints']):
                     selected_index = Part2index[k]
-                    name2keypoints[name].append(all_keypoints[:, selected_index]) # T, N, 3
+                    name2keypoints[name].append(all_keypoints["keypoints"][:, selected_index]) # T, N, 3
                 name2keypoints[name] = np.concatenate(name2keypoints[name], axis=1) #T, N, 3
                 self.keypoints_num = name2keypoints[name].shape[1]
             

@@ -65,7 +65,7 @@ def read_jpg(zip_file, dataset_name, decoded_frames, seq_len, img_dir):
     for f in decoded_frames:
         # assert f<seq_len, (f, seq_len, img_dir)
         if dataset_name.lower() in ['csl', 'csl_iso']:
-            img_path = '{}@sentence_frames-512x512/{}/{:06d}.jpg'.format(zip_file, img_dir, f)
+            img_path = '{}@frames_512x512/{}/{:06d}.jpg'.format(zip_file, img_dir, f)
         elif dataset_name.lower() in ['phoenix_iso', 'phoenix']:
             img_path = '{}@images/{}/images{:04d}.png'.format(zip_file, img_dir, f+1) #start from 1
         elif dataset_name.lower() in ['phoenix2014_iso', 'phoenix2014']:

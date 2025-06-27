@@ -195,7 +195,7 @@ def build_dataloader(cfg, split, task='ISLR', g2g_tokenizer=None, is_train=True,
     dataloader = torch.utils.data.DataLoader(dataset,
                                              collate_fn = collate_func,
                                              batch_size = cfg['training']['batch_size'],
-                                             num_workers = cfg['training'].get('num_workers',2),
+                                            #  num_workers = cfg['training'].get('num_workers',2),
                                              sampler = sampler
                                              )
     return dataloader, sampler
